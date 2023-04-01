@@ -14,6 +14,15 @@ p, li {
   color: #716040;
 }
 
+div.list {
+  text-align: center;
+}
+
+ul, ol {
+  display: inline-block; 
+	text-align: left; 
+}
+
 a {
   font-size: 12px;
   font-weight: 300;
